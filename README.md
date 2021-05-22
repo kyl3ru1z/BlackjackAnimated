@@ -7,3 +7,6 @@ Blackjack with animated cards made with Tkinter. Utilized Tkinter Canvas Animati
 - Garbage Collection
 - Fetching and displaying images
 - Utilizing Lambdas 
+
+# Demo
+<img src="gifs/blackjack_animated.gif" height="400">
